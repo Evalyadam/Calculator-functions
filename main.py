@@ -21,5 +21,4 @@ def calculate(operation):
 #Made in 15:46 PM 3/10/2024 Hebron GMT time.
 #These functions can be used throughout all projects.(As long as you have it downloaded xD.).
 #ADMR Calculater. (add devide multiply remove).
-#Each "def" function defines each ADMR parameter.
 #Free To Use!!!
